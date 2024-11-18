@@ -1,0 +1,13 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Sample Task",
+      "description": "Sample description for this task.",
+      "tag": "Development",
+      "startDate": "2024-11-18",
+      "endDate": "2024-11-25",
+      "status": "Backlog"
+    }
+  ]
+}
